@@ -18,7 +18,11 @@
 
 <br>
 
-### step 3: $1=docker-compose veriosn 
+### step 3: 
+
+CHECK THE LAST DOCKER COMPSOE VERSION: https://github.com/docker/compose/releases
+
+$1=docker-compose veriosn 
 
 <br>
 

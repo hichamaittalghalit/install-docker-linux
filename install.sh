@@ -1,5 +1,4 @@
 #!/bin/bash
-COMMAND=${1,,}
 
 #INSTALL DEPENDENCIES
 sudo apt-get update

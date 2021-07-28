@@ -6,11 +6,19 @@
 
 <br>
 
-    git clone https://github.com/hichamaittalghalit/install-docker-linux/
+    apt install git -y
 
 <br>
 
 ### step 2:
+
+<br>
+
+    git clone https://github.com/hichamaittalghalit/install-docker-linux/
+
+<br>
+
+### step 3:
 
 <br>
 

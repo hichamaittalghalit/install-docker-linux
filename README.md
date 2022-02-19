@@ -26,7 +26,7 @@
 
 <br>
 
-### step 3: 
+### step 4: 
 
 CHECK THE LAST DOCKER COMPSOE VERSION: https://github.com/docker/compose/releases
 

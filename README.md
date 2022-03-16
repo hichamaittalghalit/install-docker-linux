@@ -36,4 +36,4 @@ $1=docker-compose version
 
     sudo sh ./install.sh $1
     
-    ex: sudo sh ./install.sh 1.27.3
+    ex: sudo sh ./install.sh v1.27.3
